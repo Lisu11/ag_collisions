@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* This file is for your main application CSS */
+.stats-card {
+    background-color: #1f2836;
+}
+
+.detail-key{
+    color:#9ca3af
+}
+.detail-val{
+    color: white;
+}
+.details > div > div {
+    border-bottom: #9ca3af;
+}
+.layout-container {
+    border-radius: 28px;
+}
